@@ -1,6 +1,6 @@
 # javaScript_calc
 js精确计算
-
+[演示地址](https://uxzhen.gitee.io/java-script-computing/)
 
 ## parseFloat((数学表达式).toFixed(digits)) // toFixed() 精度参数须在 0 与20 之间 运行
 ## parseFloat((0.1 + 0.2).toFixed(10))//结果为0.3
